@@ -1,0 +1,60 @@
+{    
+    "GeneralData": 
+        {
+            "Year": 2023,
+            "StartMeterThisYear": 4233,
+            "EndMeterThisYear": 5798,
+            "TotalEnergyCostThisYearInEUR": 500
+        }
+    ,
+    "MeterData": [
+        {
+            "CheckInMeter": 4233,
+            "CheckOutMeter": 4512,
+            "Name": "David"
+        },
+        {
+            "CheckInMeter": 4650,
+            "CheckOutMeter": 4797,
+            "Name": "Fabian"
+        },
+        {
+            "CheckInMeter": 4797,
+            "CheckOutMeter": 5200,
+            "Name": "David"
+        },
+        {
+            "CheckInMeter": 5215,
+            "CheckOutMeter": 5595,
+            "Name": "David"
+        },
+        {
+            "CheckInMeter": 5595,
+            "CheckOutMeter": 5798,
+            "Name": "Henning"
+        }
+    ],
+    "UserData": [
+        {
+            "Name": "David",
+            "Share": 50
+        },
+        {
+            "Name": "Shery",
+            "Share": 14.29
+        },
+        {
+            "Name": "Randy",
+            "Share": 14.29
+        },
+        {
+            "Name": "Fabian",
+            "Share": 14.29
+        },
+        {
+            "Name": "Henning",
+            "Share": 7.13
+        }
+    ]
+    
+}

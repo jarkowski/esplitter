@@ -1,0 +1,40 @@
+================================================================================
+Check 1 of 3: All MeterData datasets are between StartMeterThisYear and EndMeterThisYear - OK
+Check 2 of 3: No overlappings in MeterData - OK
+Check 3 of 3: MeterData contains only known users - OK
+--------------------------------------------------------------------------------
+Start of year meter: 4233 units
+End of year meter:  5798 units
+Total for year 2023:  1565 units
+Price per unit: 0.319 EUR
+--------------------------------------------------------------------------------
+David used 1062 units.
+Fabian used 147 units.
+Henning used 203 units.
+General Electric used 153 units.
+--------------------------------------------------------------------------------
+David is responsible for 76 units of General Electric.
+Shery is responsible for 22 units of General Electric.
+Randy is responsible for 22 units of General Electric.
+Fabian is responsible for 22 units of General Electric.
+Henning is responsible for 11 units of General Electric.
+================================================================================
+David total for year 2023 is 1138 units which is 363.58 EUR.
+Shery total for year 2023 is 22 units which is 7.03 EUR.
+Randy total for year 2023 is 22 units which is 7.03 EUR.
+Fabian total for year 2023 is 169 units which is 53.99 EUR.
+Henning total for year 2023 is 214 units which is 68.37 EUR.
+--------------------------------------------------------------------------------
+SettleUp: David allready paid a share of 50 percent of 500 EUR, which is 250.0 EUR.
+SettleUp: Shery allready paid a share of 14.29 percent of 500 EUR, which is 71.44999999999999 EUR.
+SettleUp: Randy allready paid a share of 14.29 percent of 500 EUR, which is 71.44999999999999 EUR.
+SettleUp: Fabian allready paid a share of 14.29 percent of 500 EUR, which is 71.44999999999999 EUR.
+SettleUp: Henning allready paid a share of 7.13 percent of 500 EUR, which is 35.65 EUR.
+--------------------------------------------------------------------------------
+Total Already Paid: 499.99999999999994 EUR
+Total Should Be:    499.99999999999994 EUR
+--------------------------------------------------------------------------------
+David needs to pay Shery €64.42
+David needs to pay Randy €49.16
+Henning needs to pay Fabian €17.46
+Henning needs to pay Randy €15.26

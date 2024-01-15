@@ -3,8 +3,8 @@
         {
             "Year": 2023,
             "StartMeterThisYear": 4233,
-            "EndMeterThisYear": 5798,
-            "TotalEnergyCostThisYearInEUR": 500
+            "EndMeterThisYear": 6400,
+            "TotalEnergyCostThisYearInEUR": 456.47
         }
     ,
     "MeterData": [
@@ -32,6 +32,11 @@
             "CheckInMeter": 5595,
             "CheckOutMeter": 5798,
             "Name": "Henning"
+        },
+        {
+            "CheckInMeter": 5837,
+            "CheckOutMeter": 6400,
+            "Name": "David"
         }
     ],
     "UserData": [
